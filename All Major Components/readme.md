@@ -12,6 +12,8 @@ The Air Filter removes dust, dirt, and other contaminants from the incoming air 
 Function: Provides clean air to the engine for efficient combustion and protects internal components.
 
 #  Air Turbo
+https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Air%20Turbo.png
+
 The Air Turbo represents the forced-induction system used to increase the amount of air supplied to the engine.
 Function: Compresses incoming air and supplies it to the intake system to support improved engine performance.
 
