@@ -142,6 +142,8 @@ The Driven Gear is used for transferring rotational power from the engine cranks
 Function: Transfers motion between pulleys and operates engine accessories.
 
 #  Valve Cover
+
+
 The Valve Cover is mounted over the cylinder head.
 Function:
 Encloses the valve train
