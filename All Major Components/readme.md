@@ -80,6 +80,8 @@ Mounting provisions
 Internal passages
 
 # Exhaust Manifold
+https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Exhaust%20Mainfoild.png
+
 The Exhaust Manifold collects exhaust gases from the individual cylinders.
 Function: Combines and directs exhaust gases from the cylinder head toward the exhaust system or turbocharger.
 
