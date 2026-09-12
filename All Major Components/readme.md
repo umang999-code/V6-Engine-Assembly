@@ -69,6 +69,8 @@ Provides intake and exhaust passages
 Supports valve train components
 
 # Engine Block
+https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Engine%20Block.png
+
 The Engine Block is the primary structural body of the V6 engine.
 Function: Provides support and mounting locations for cylinders, crankshaft, cylinder heads, and other major engine components.
 Features:
