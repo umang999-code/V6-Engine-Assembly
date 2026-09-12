@@ -97,6 +97,8 @@ Helical Valve Spring
 Spring Cap/Retainer
 
 #  Intake Manifold
+https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Intake%20Mainfolid.png
+
 The Intake Manifold distributes incoming air to the individual cylinders.
 Function: Provides a controlled flow path between the intake system and cylinder intake ports.
 
