@@ -48,6 +48,8 @@ Maintains shaft alignment
 Reduces wear
 
 # Crankshaft
+https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Crankshaft.png
+
 The Crankshaft is the main rotating component responsible for converting reciprocating piston motion into rotary motion.
 Function: Receives motion from the connecting rods and transfers rotational power to the drivetrain.
 Key Features:
