@@ -27,6 +27,8 @@ Connecting Rod
 Supporting Components
 
 # Rocker Arm Assembly
+https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Rocker%20Arm%20Assembly.png
+
 The Rocker Arm Assembly is part of the engine valve train.
 Function: Transfers the required motion to the intake and exhaust valves and helps control their opening and closing.
 Main Components:
