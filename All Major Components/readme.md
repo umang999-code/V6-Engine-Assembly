@@ -142,7 +142,7 @@ The Driven Gear is used for transferring rotational power from the engine cranks
 Function: Transfers motion between pulleys and operates engine accessories.
 
 #  Valve Cover
-
+https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Valve%20Cover.png
 
 The Valve Cover is mounted over the cylinder head.
 Function:
