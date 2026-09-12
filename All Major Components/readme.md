@@ -118,6 +118,7 @@ Wrist-Pin Region
 # Driven Gear
 https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Driven%20Gear.png
 
+https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Driven%20Gear%202.png
 
 The Driven Gear is used for transferring rotational power from the engine crankshaft to auxiliary components.
 Function: Transfers motion between pulleys and operates engine accessories.
