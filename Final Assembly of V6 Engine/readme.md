@@ -24,7 +24,6 @@ Drive Belt System
 Helical Springs and Valves
 Bushings and supporting components
 
-# Final Assembly Views
 https://github.com/umang999-code/V6-Engine-Assembly/blob/main/Final%20Assembly%20of%20V6%20Engine/V6%20ENGINE.png
 
 # Transparent View
