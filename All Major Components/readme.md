@@ -122,6 +122,8 @@ Helps retain lubricating oil
 Provides sealing for the upper engine section
 
 # Brushing
+https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Brushing.png
+
 bushings are used to support rotating components such as the camshaft and reduce friction between moving surfaces.
 They help maintain proper alignment and reduce wear during engine operation.
 Bushings also contribute to smooth and reliable operation of the engine mechanism.
