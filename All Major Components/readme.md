@@ -99,6 +99,8 @@ The Intake Manifold distributes incoming air to the individual cylinders.
 Function: Provides a controlled flow path between the intake system and cylinder intake ports.
 
 # Front Cover
+https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Front%20Cover.png
+
 The Front Cover is mounted on the front side of the engine.
 Function:
 Protects internal engine components
