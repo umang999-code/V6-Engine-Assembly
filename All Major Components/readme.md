@@ -88,6 +88,8 @@ Function: Combines and directs exhaust gases from the cylinder head toward the e
 # Helical Spring with Cap
 https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Helical%20Spring%20cap.png
 
+https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Helical%20Spring.png
+
 The Helical Spring with Cap is part of the valve mechanism.
 Function: Provides restoring force to return the valve to its closed position after actuation.
 Main Components:
