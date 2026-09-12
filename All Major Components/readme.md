@@ -45,14 +45,6 @@ https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Comp
 The Camshaft is an important component of the valve train mechanism.
 Function: Controls the timing of intake and exhaust valve operation through its cam profiles.
 
-# Camshaft Bushing
-The Camshaft Bushing provides a supporting bearing surface for the rotating camshaft.
-Function:
-Supports the camshaft
-Reduces friction
-Maintains shaft alignment
-Reduces wear
-
 # Crankshaft
 https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Crankshaft.png
 
@@ -123,15 +115,6 @@ https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Comp
 
 The Oil Pan is located at the bottom of the engine.
 Function: Acts as a reservoir for engine lubricating oil and forms the lower enclosure of the engine.
-
-#  Piston
-The Piston is a reciprocating component that moves inside the engine cylinder.
-Function: Receives combustion pressure and transfers the resulting force to the connecting rod.
-Main Features:
-Piston Crown
-Piston Skirt
-Ring Grooves
-Wrist-Pin Region
 
 # Driven Gear
 https://github.com/umang999-code/V6-Engine-Assembly/blob/main/All%20Major%20Components/Driven%20Gear.png
