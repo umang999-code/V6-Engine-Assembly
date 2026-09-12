@@ -49,6 +49,7 @@ Image:
 # Side View
 Shows the side profile of the engine and provides a clear understanding of the engine block, cylinder head and external components.
 Image:
+https://github.com/umang999-code/V6-Engine-Assembly/blob/main/Final%20Assembly%20of%20V6%20Engine/Side%20View%20(2).png
 
 # Bottom view
 shows all the bottom arrangement of engine
