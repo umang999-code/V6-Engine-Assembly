@@ -7,3 +7,10 @@ Do not rename or move any .SLDPRT file after creating the assembly, because the 
 Open the .SLDASM file only after all required component files have been downloaded and placed in their proper folder.
 If SolidWorks asks for a missing component, use Browse/Locate and select the correct .SLDPRT file from the components folder.
 For a reliable workflow, download and organize all component files first, then start/open the assembly.
+
+## 📦 File Formats:
+
+| File Format | Description |
+|-------------|-------------|
+| .SLDPRT | Individual Wheel Loader Parts |
+| .SLDASM | Complete Wheel Loader Assembly |
