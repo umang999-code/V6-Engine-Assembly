@@ -1,8 +1,4 @@
 # V6 Internal Combustion Engine – SolidWorks
-Single File V6 assembly
-https://github.com/umang999-code/V6-Engine-Assembly/blob/main/Final%20Assembly%20of%20V6%20Engine/single%20file%20v6%20engine%20assembly.SLDPRT
-
-
 # Project Overview
 
 This project is a 3D CAD model and complete assembly of a V6 Internal Combustion Engine, designed and assembled using SolidWorks.
