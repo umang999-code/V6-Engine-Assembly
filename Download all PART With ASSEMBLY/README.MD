@@ -12,5 +12,5 @@ For a reliable workflow, download and organize all component files first, then s
 
 | File Format | Description |
 |-------------|-------------|
-| .SLDPRT | Individual Wheel Loader Parts |
-| .SLDASM | Complete Wheel Loader Assembly |
+| .SLDPRT | Individual V6 Engine  Parts |
+| .SLDASM | Complete V6 Engine Assembly |
