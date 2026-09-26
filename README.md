@@ -1,4 +1,5 @@
 # V6 Internal Combustion Engine – SolidWorks
+![V6 Engine](Final%20Assembly%20of%20V6%20Engine/V6%20ENGINE.png)
 # Project Overview
 
 This project is a 3D CAD model and complete assembly of a V6 Internal Combustion Engine, designed and assembled using SolidWorks.
